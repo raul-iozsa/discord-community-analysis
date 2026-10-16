@@ -1,0 +1,8 @@
+year,messages,days_observed,messages_per_day,active_members,messages_per_active_member_per_day,characters_per_day,mean_characters_per_message,reply_share,messages_per_day_index_2022,active_members_index_2022,messages_per_active_member_per_day_index_2022,characters_per_day_index_2022,note
+2020,1884,157,12.0,12,1.0,266.4,22.2,0.0,0.8,36.4,2.3,0.6,pre-community
+2021,325237,337,965.1,28,34.47,26254.0,27.2,0.0755,67.9,84.8,80.0,61.6,
+2022,518795,365,1421.4,33,43.07,42614.2,30.0,0.1247,100.0,100.0,100.0,100.0,
+2023,274665,365,752.5,31,24.27,26487.8,35.2,0.1199,52.9,93.9,56.4,62.2,
+2024,220216,366,601.7,27,22.28,22857.3,38.0,0.1327,42.3,81.8,51.7,53.6,
+2025,163052,365,446.7,28,15.95,18994.3,42.5,0.1471,31.4,84.8,37.0,44.6,
+2026,109694,221,496.4,23,21.58,21654.2,43.6,0.1597,34.9,69.7,50.1,50.8,partial (to 9 Aug)

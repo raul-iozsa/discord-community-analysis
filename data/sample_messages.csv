@@ -1,0 +1,21 @@
+id,type,pseudonym,is_conversational,content,timestamp,reply_to_id,mentions_pseudo
+900000000000000000,Default,user_03,True,did anyone see the news today,2023-04-12T19:05:11+03:00,,[]
+900000000000000001,Default,user_11,True,yeah it was wild,2023-04-12T19:13:11+03:00,,[]
+900000000000000002,Reply,user_02,True,lol,2023-04-12T19:17:11+03:00,900000000000000001,[]
+900000000000000003,Default,user_02,True,fair enough,2023-04-12T19:28:11+03:00,,[]
+900000000000000004,Default,user_10,True,who is playing tonight,2023-04-12T19:33:11+03:00,,"[""user_07""]"
+900000000000000005,Default,user_09,True,kickoff in 10,2023-04-12T19:38:11+03:00,,[]
+900000000000000006,Default,user_01,True,that was offside surely,2023-04-12T19:46:11+03:00,,[]
+900000000000000007,Reply,user_07,True,not again,2023-04-12T19:52:11+03:00,900000000000000006,[]
+900000000000000008,Default,user_02,True,ok that was actually good,2023-04-12T20:02:11+03:00,,[]
+900000000000000009,Default,user_02,True,same time tomorrow?,2023-04-12T20:07:11+03:00,,[]
+900000000000000010,Default,user_07,True,cant make it sorry,2023-04-12T20:17:11+03:00,,[]
+900000000000000011,Default,user_10,True,no chance,2023-04-12T20:20:11+03:00,,[]
+900000000000000012,Reply,user_04,True,hahaha,2023-04-12T20:27:11+03:00,900000000000000011,[]
+900000000000000013,Default,user_01,True,well deserved,2023-04-12T20:38:11+03:00,,"[""user_07""]"
+900000000000000014,Default,user_10,True,disagree completely,2023-04-12T20:45:11+03:00,,[]
+900000000000000015,Default,user_01,True,link?,2023-04-12T20:51:11+03:00,,[]
+900000000000000016,Default,user_01,True,cheers,2023-04-12T20:56:11+03:00,,[]
+900000000000000017,Reply,user_03,True,brutal,2023-04-12T21:06:11+03:00,900000000000000016,[]
+900000000000000018,Default,user_07,True,see you then,2023-04-12T21:11:11+03:00,,[]
+900000000000000019,Default,user_09,True,goodnight all,2023-04-12T21:17:11+03:00,,[]

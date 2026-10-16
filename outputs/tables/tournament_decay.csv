@@ -1,0 +1,5 @@
+event,baseline/day,days_to_baseline,tail_days_available,status,at_measurement_floor
+Euro 2020,1256.75,3,1855,measured,True
+World Cup 2022,1224.5,3,1330,measured,True
+Euro 2024,610.7857142857143,11,756,measured,False
+World Cup 2026,475.9642857142857,3,21,measured,True

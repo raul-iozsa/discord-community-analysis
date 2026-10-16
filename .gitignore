@@ -1,0 +1,12 @@
+# real names and private membership notes
+mapping_private/
+
+# local notes
+z other stuff/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# per-member hourly data, kept private
+outputs/private/

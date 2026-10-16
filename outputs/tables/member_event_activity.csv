@@ -1,0 +1,104 @@
+event,pseudonym,window_messages,window_days,baseline_messages,baseline_days
+Euro 2020,user_01,4211,31,5657,28
+Euro 2020,user_02,5531,31,2430,28
+Euro 2020,user_03,8478,31,4710,28
+Euro 2020,user_04,5157,31,2884,28
+Euro 2020,user_05,6021,31,1824,28
+Euro 2020,user_06,3043,31,1560,28
+Euro 2020,user_07,4757,31,1459,28
+Euro 2020,user_08,3347,31,2073,28
+Euro 2020,user_09,3018,31,750,28
+Euro 2020,user_10,994,31,481,28
+Euro 2020,user_11,1957,31,1682,28
+Euro 2020,user_14,23,31,5,28
+Euro 2020,user_15,0,31,4,28
+Euro 2020,user_16,985,31,576,28
+Euro 2020,user_17,3425,31,2369,28
+Euro 2020,user_18,599,31,966,28
+Euro 2020,user_20,3761,31,2830,28
+Euro 2020,user_22,75,31,496,28
+Euro 2020,user_23,462,31,567,28
+Euro 2020,user_26,2116,31,1763,28
+Euro 2020,user_29,45,31,99,28
+Euro 2020,user_33,0,31,4,28
+Euro 2020,user_35,139,31,0,28
+Euro 2020,user_41,21,31,0,28
+Euro 2024,user_01,4483,31,2804,28
+Euro 2024,user_02,2757,31,1883,28
+Euro 2024,user_03,3918,31,1176,28
+Euro 2024,user_04,3350,31,1615,28
+Euro 2024,user_05,1882,31,1324,28
+Euro 2024,user_06,3266,31,2108,28
+Euro 2024,user_07,1599,31,933,28
+Euro 2024,user_08,48,31,64,28
+Euro 2024,user_09,778,31,411,28
+Euro 2024,user_10,338,31,410,28
+Euro 2024,user_11,594,31,391,28
+Euro 2024,user_13,2538,31,966,28
+Euro 2024,user_14,762,31,586,28
+Euro 2024,user_15,457,31,440,28
+Euro 2024,user_16,704,31,321,28
+Euro 2024,user_17,130,31,171,28
+Euro 2024,user_18,129,31,24,28
+Euro 2024,user_19,2053,31,1030,28
+Euro 2024,user_22,201,31,175,28
+Euro 2024,user_23,1,31,89,28
+Euro 2024,user_24,275,31,98,28
+Euro 2024,user_27,36,31,5,28
+Euro 2024,user_28,432,31,78,28
+Euro 2024,user_29,1,31,0,28
+Euro 2024,user_30,3,31,0,28
+Euro 2024,user_31,1,31,0,28
+World Cup 2022,user_01,7294,29,4329,28
+World Cup 2022,user_02,5207,29,4539,28
+World Cup 2022,user_03,4225,29,1474,28
+World Cup 2022,user_04,4155,29,3879,28
+World Cup 2022,user_05,4976,29,2145,28
+World Cup 2022,user_06,3871,29,2080,28
+World Cup 2022,user_07,4177,29,2441,28
+World Cup 2022,user_08,839,29,596,28
+World Cup 2022,user_09,2874,29,2620,28
+World Cup 2022,user_10,1419,29,838,28
+World Cup 2022,user_11,1266,29,1273,28
+World Cup 2022,user_12,2721,29,3248,28
+World Cup 2022,user_14,1266,29,1162,28
+World Cup 2022,user_15,633,29,432,28
+World Cup 2022,user_16,1607,29,1057,28
+World Cup 2022,user_17,299,29,385,28
+World Cup 2022,user_18,986,29,118,28
+World Cup 2022,user_20,139,29,0,28
+World Cup 2022,user_21,2187,29,1076,28
+World Cup 2022,user_22,446,29,174,28
+World Cup 2022,user_23,1,29,0,28
+World Cup 2022,user_24,350,29,105,28
+World Cup 2022,user_25,210,29,85,28
+World Cup 2022,user_27,258,29,99,28
+World Cup 2022,user_28,464,29,98,28
+World Cup 2022,user_30,0,29,6,28
+World Cup 2022,user_31,56,29,9,28
+World Cup 2022,user_33,0,29,1,28
+World Cup 2022,user_37,3,29,17,28
+World Cup 2026,user_01,4914,39,2009,28
+World Cup 2026,user_02,3111,39,1301,28
+World Cup 2026,user_03,1579,39,940,28
+World Cup 2026,user_04,2477,39,1351,28
+World Cup 2026,user_05,2854,39,1073,28
+World Cup 2026,user_06,3543,39,1329,28
+World Cup 2026,user_07,1507,39,562,28
+World Cup 2026,user_08,19,39,5,28
+World Cup 2026,user_09,23,39,4,28
+World Cup 2026,user_10,165,39,222,28
+World Cup 2026,user_11,470,39,335,28
+World Cup 2026,user_12,834,39,299,28
+World Cup 2026,user_13,2231,39,1356,28
+World Cup 2026,user_14,615,39,170,28
+World Cup 2026,user_15,1239,39,728,28
+World Cup 2026,user_16,387,39,217,28
+World Cup 2026,user_17,231,39,122,28
+World Cup 2026,user_18,1,39,1,28
+World Cup 2026,user_19,2245,39,1075,28
+World Cup 2026,user_22,40,39,0,28
+World Cup 2026,user_23,3,39,0,28
+World Cup 2026,user_24,567,39,219,28
+World Cup 2026,user_25,2,39,0,28
+World Cup 2026,user_28,27,39,9,28

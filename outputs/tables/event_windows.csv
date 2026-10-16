@@ -1,0 +1,13 @@
+event,kind,year,start_date,end_date
+Euro 2020,tournament,2021,2021-06-11,2021-07-11
+World Cup 2022,tournament,2022,2022-11-20,2022-12-18
+Euro 2024,tournament,2024,2024-06-14,2024-07-14
+World Cup 2026,tournament,2026,2026-06-11,2026-07-19
+"Euro 2020 dates, 2023",control,2023,2023-06-11,2023-07-11
+"Euro 2024 dates, 2023",control,2023,2023-06-14,2023-07-14
+"World Cup 2026 dates, 2023",control,2023,2023-06-11,2023-07-19
+"Euro 2020 dates, 2025",control,2025,2025-06-11,2025-07-11
+"Euro 2024 dates, 2025",control,2025,2025-06-14,2025-07-14
+"World Cup 2026 dates, 2025",control,2025,2025-06-11,2025-07-19
+"World Cup 2022 dates, 2023",control,2023,2023-11-20,2023-12-18
+"World Cup 2022 dates, 2025",control,2025,2025-11-20,2025-12-18

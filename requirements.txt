@@ -1,0 +1,10 @@
+# Python 3.12+
+psycopg2-binary>=2.9      # PostgreSQL driver
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11               # Welch t-test in Step 3
+matplotlib>=3.8
+seaborn>=0.13
+networkx>=3.2             # Step 4; uses built-in louvain_communities
+nbformat>=5.9             # notebooks are generated from scripts/
+jupyter>=1.0              # nbconvert --execute, driven by run_notebook.py
